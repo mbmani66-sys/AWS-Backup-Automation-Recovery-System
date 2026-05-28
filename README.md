@@ -53,3 +53,8 @@ run: aws configure
 
 run backup script
 python scripts/backup_ec2.py
+
+
+## 🏗️ AWS Architecture Diagram
+
+![AWS Architecture](aws-backup-architecture.png)
